@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marvelcodebd",
+  "private_key_id": "30aaf17e938558c282c74ce7d4f7826477f39d2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyC1dKoJdvDCPz\nnsEDaDsdwfn4fesxSWiLbo1/G7UrEaQL035hl+9gsrp1W6uTtvZdNglBZHuloSUb\nxBLKzUIspjrc+d8S7UVvQBD4w04qmZ9IqX2qOVLJzTG9vgrDSFlKzuYwDGL7CGm+\nrSiRfOLwOTdVPrqqjHBNyuq0HiWPRvdJOM81OeMi9GpDyJOvuRgsEqNAwQydHA3m\nhXMPHCVaqQqcDflbuW02mhLBw68NW8qpSJp0iNC/ijAgxAIv4I6XIOQrC2O+UxmP\n7ptbgLmlHu4pUmD3XHmoA2Fkxfk3lMpyAGofWvc3/d9ozHLZI6aNZqO2TQoTEZBp\n2uzgt4qNAgMBAAECggEAK7IE1lfbUnGUUTHhBMkL2R3GD2o30nzFn5KeP1e5erx1\nmkFpfuIe6YhzomHBFhuNEwsz8kyK2/dUeCACzKrbVsHlKF5alPaOV+NNRwAHqwTQ\nxrByGti+rLAjSQHe+lZDM8zbSWeA00MZUKaGkk4oE/S208D1Zu3Ykf7+4v2TEjpb\nlO7jT/tgIEcSZF4Kqf/xn04uFYcA8jgDU38fsBieUzlxL0E1T+57Q+4yCFZho5Su\nJwASJYsvS3XArOVRQx68btRKqGisVygxxtAIBkDA4frXHpiQ1OG8OYBuQgavK68e\n6dQbKjAuzfTuUzxL9itgYWgwHxqUi999UZDCE5yKMQKBgQDcn0UscjtIxmfDTpUT\n1MA2+v3BvG5/FFZyn5KZW9RDJ+qe+VKK8Y6yUGry5V2NJhyrIVdzwzzOvj7Pu1/v\nSCu95R/0IQXCGFA6E/kCkcgOxyhxid21ei5cp91pctlzPK7+hF3RwsCkWvGFw27R\nfTxkrzIHY6h5cz06qLfgAkcA4wKBgQDOmDabtnkoZ8RxzktjtuVXHNbI4gVqDZA6\n5R55czppXPU665djMP+T1WqvMiZvar48cLt2cKesVSAlNVrvb7JGlFLqXJtszwDi\nbbut88rDJNPFf08+V8R5ZEi73n2piBJii9wyZXZ2zPHspcUJSTI3CEePByfpt6PN\nfjDvYsJRzwKBgQCakgwI48+dYUR5lajkx/4Thy4aekaASmN2004GnEvO8Tx0PQIT\nzsHHNIh5vTEaH0WesDFxLayAvNGNAR5pqwradJk6lZhPMHGk/zFLF5AuqmIvigQH\njZ7F0+ZQZuLq1e1U7LA+sk/91qm4qgAOTcvuTsCiZLQ4wwB3BJYvH+lXOQKBgQCt\nY0x5lUTMJ4LUrPnS315NpVOSVzeKEYYaF89iyNWeNjlO0QlGY4osrbITBbkCS4kL\nuuVqexQOa4dGEyiVyZ3K5JNORJjhUj6Ayu34CaMD8rWVjMqaHRk1dHgizJGUpjIf\n6RfOaB9rh4gHP/1FVNxDGbzNColx+wEL5zv0vWMvOwKBgDzcGOEa3WHCxZYBbH31\noxx1KpSgU2Eda5B4Nez/TaJvGtgfHnkHLL3zLrLWGkgr/kKDvTcwFzhZ5KexpkA+\nRSX2oKGpTRj2RKLH/SAenMlH29BbggTnxJ/KCUf1WxsFyiWO8E6OvB1Bme551bCE\nyM8t01O3aVfYmOwf11WNRXvC\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fwhcg@marvelcodebd.iam.gserviceaccount.com",
+  "client_id": "113313682537053217405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fwhcg%40marvelcodebd.iam.gserviceaccount.com"
+}
